@@ -1,2 +1,2 @@
 * Использование
-  Откройте файл =lection1.workspace= в [[ru.wikipedia.org/wiki/IDE][интегрированной среде разработки]] [[www.codeblocks.org][Code::Blocks]].
+  Откройте файл =lection1.workspace= в среде программирования [[www.codeblocks.org][Code::Blocks]].
