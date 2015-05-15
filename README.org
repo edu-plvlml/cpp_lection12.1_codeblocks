@@ -1,2 +1,2 @@
 * Использование
-  Откройте файл =lection1.workspace= в среде программирования [[www.codeblocks.org][Code::Blocks]].
+  Откройте файл =lection12.workspace= в среде программирования [[www.codeblocks.org][Code::Blocks]].
